@@ -1,4 +1,4 @@
-Basic Topics of NLP 
+## Basic Topics of NLP 
 
 # Word Tokenization
 # Sentence Tokenization
